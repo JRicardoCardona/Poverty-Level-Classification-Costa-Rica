@@ -1,6 +1,6 @@
 # Costa Rican Household Poverty Level Prediction
 
-This project aims to predict the poverty level of households in Costa Rica using machine learning techniques. The dataset used is from the Costa Rican Household Poverty Level Prediction competition hosted on Kaggle by the Inter-American Development Bank.
+This project aims to predict the poverty level of households in Costa Rica using machine learning techniques. The dataset used is from the Costa Rican Household Poverty Level Prediction competition hosted on Kaggle by the Inter-American Development Bank. This is an upload of the jupyter notebooks done, any code, analysis and results, can be found on them.
 
 ## Dataset
 
@@ -67,14 +67,3 @@ This project follows the CRISP-DM (Cross-Industry Standard Process for Data Mini
 6. **Model Evaluation**: Assessing the performance of the models using metrics such as accuracy, precision, recall, F1-score, and ROC AUC.
 7. **Model Interpretation**: Analyzing the feature importances and understanding the factors contributing to household poverty.
 
-## Results
-
-[Pending]
-
-## Repository Structure
-
-- `data/`: Contains the cleaned and ready datasets for Modeling
-- `notebooks/`: Jupyter notebooks for data preprocessing, exploratory analysis, and modeling
-- `src/`: Python scripts for utility functions and modules
-- `models/`: Trained machine learning models
-- `requirements.txt`: List of required Python libraries
